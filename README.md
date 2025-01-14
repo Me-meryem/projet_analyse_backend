@@ -10,18 +10,22 @@ Architecture du Projet:
 
 Technologies : Vue.js et Nuxt.js
 
-Fonctionnalités principales :     Interface intuitive et responsive
+Fonctionnalités principales :    
 
-                                  Graphiques interactifs
+   Interface intuitive et responsive
 
-                                  Tableaux dynamiques pour une meilleure visualisation
+   Graphiques interactifs
+
+   Tableaux dynamiques pour une meilleure visualisation
 
 -Backend
 
 Technologie : Django
 
-Fonctionnalités principales :     Gestion du traitement et du stockage des données
+Fonctionnalités principales :   
 
-                                  API fiables pour connecter le frontend
+   Gestion du traitement et du stockage des données
 
-                                  Analyse rapide et sécurisée des données
+   API fiables pour connecter le frontend
+
+   Analyse rapide et sécurisée des données
