@@ -1,10 +1,10 @@
-~Projet d'Analyse de Données~
+~~~Projet d'Analyse de Données~~~
 
 Ce projet est une solution complète pour l'analyse de données, combinant un frontend intuitif et un backend performant. Il permet de visualiser et de manipuler les données de manière efficace.
 
 Architecture du Projet
 
-Frontend
+-Frontend
 
 Technologies : Vue.js et Nuxt.js
 
@@ -16,7 +16,7 @@ Graphiques interactifs
 
 Tableaux dynamiques pour une meilleure visualisation
 
-Backend
+-Backend
 
 Technologie : Django
 
