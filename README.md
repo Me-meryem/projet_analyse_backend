@@ -6,11 +6,11 @@ Projet d'Analyse de Données
 
 Architecture du Projet:
 
--Frontend
+. Frontend
 
-.Technologies : Vue.js et Nuxt.js
+- Technologies : Vue.js et Nuxt.js
 
-.Fonctionnalités principales :    
+- Fonctionnalités principales :    
 
    Interface intuitive et responsive
 
@@ -18,11 +18,11 @@ Architecture du Projet:
 
    Tableaux dynamiques pour une meilleure visualisation
 
--Backend
+. Backend
 
-.Technologie : Django
+- Technologie : Django
 
-.Fonctionnalités principales :   
+- Fonctionnalités principales :   
 
    Gestion du traitement et du stockage des données
 
